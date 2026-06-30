@@ -9,10 +9,10 @@
   "mainExe": "FindFile.exe",
   "package": {
     "url": "https://github.com/vitalya482-glitch/FindFile_MVP/releases/download/v0.1.0/FindFile-win-x64.zip",
-    "sha256": "",
-    "size": 0
+    "sha256": "a50d2c8745fd0d3b64c42b06d3e7232dcc68d73bfc35f47bde56f766d4e325f8",
+    "size": 66435225
   },
   "notes": [
-    "Стартовый manifest для подключения системы обновлений LVK-Updater."
+    "Первый релиз FindFile с LVKUpdater."
   ]
 }
