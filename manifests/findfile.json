@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "appId": "findfile",
+  "name": "FindFile",
+  "latestVersion": "0.1.0",
+  "channel": "stable",
+  "mandatory": false,
+  "releaseDate": "2026-06-30",
+  "mainExe": "FindFile.exe",
+  "package": {
+    "url": "https://github.com/vitalya482-glitch/FindFile_MVP/releases/download/v0.1.0/FindFile-win-x64.zip",
+    "sha256": "",
+    "size": 0
+  },
+  "notes": [
+    "Стартовый manifest для подключения системы обновлений LVK-Updater."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-06-30T00:00:00+05:00",
+  "apps": [
+    {
+      "appId": "findfile",
+      "name": "FindFile",
+      "manifestUrl": "https://raw.githubusercontent.com/vitalya482-glitch/LVK-Update-Feed/main/manifests/findfile.json"
+    }
+  ]
+}
