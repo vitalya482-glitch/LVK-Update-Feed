@@ -2,18 +2,18 @@
   "schemaVersion": 1,
   "appId": "findfile",
   "name": "FindFile",
-  "latestVersion": "0.2.0.28",
+  "latestVersion": "0.2.0.29",
   "channel": "stable",
   "mandatory": false,
-  "releaseDate": "2026-07-01",
+  "releaseDate": "2026-07-03",
   "mainExe": "FindFile.exe",
   "package": {
     "url": "https://github.com/vitalya482-glitch/FindFile_MVP/releases/download/dev-latest/FindFile-win-x64.zip",
-    "sha256": "ce042d32508f9505aaf12fa2083f7d02f248a1eefe15ae328f59304de28bce02",
-    "size": 342110
+    "sha256": "6e6e38aecb2fabc9e8a85be72d5e36886daaee83a6a44080127998949bbefbfb",
+    "size": 362392
   },
   "notes": [
     "Автоматическая native C++ dev-сборка FindFile.",
-    "Commit: 36ec01836a306616754a2b7102e43d73f7063ab3"
+    "Commit: 6c96074ec3bf3438b1f868c1274ba322fa9d091e"
   ]
 }
