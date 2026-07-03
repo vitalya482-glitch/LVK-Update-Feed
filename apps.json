@@ -1,11 +1,15 @@
 {
-  "schemaVersion": 1,
-  "updatedAt": "2026-06-30T00:00:00+05:00",
+  "registryVersion": 1,
   "apps": [
     {
       "appId": "findfile",
       "name": "FindFile",
-      "manifestUrl": "https://raw.githubusercontent.com/vitalya482-glitch/LVK-Update-Feed/main/manifests/findfile.json"
+      "manifest": "https://raw.githubusercontent.com/vitalya482-glitch/LVK-Update-Feed/main/manifests/findfile.json"
+    },
+    {
+      "appId": "offer-generator",
+      "name": "SAM Offer Generator",
+      "manifest": "https://raw.githubusercontent.com/vitalya482-glitch/LVK-Update-Feed/main/manifests/offer-generator.json"
     }
   ]
 }

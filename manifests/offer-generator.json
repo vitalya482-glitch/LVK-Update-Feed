@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "appId": "offer-generator",
+  "name": "SAM Offer Generator",
+  "channel": "stable",
+  "mandatory": false,
+  "mainExe": "SAM Offer Generator.exe",
+  "versions": {
+    "app": "2026.07.02.91",
+    "runtime": "2026.07.02.01",
+    "updater": "0.2.0"
+  },
+  "packages": {
+    "app": {
+      "file": "SAM-Offer-Generator-App-No-Runtime.zip",
+      "url": "https://github.com/vitalya482-glitch/offer-generator/releases/download/dev-latest/SAM-Offer-Generator-App-No-Runtime.zip",
+      "sha256": "",
+      "size": 8700000
+    },
+    "runtime": {
+      "file": "SAM-Offer-Generator-Runtime-Win64.zip",
+      "url": "https://github.com/vitalya482-glitch/offer-generator/releases/download/runtime-2026.07.02.01/SAM-Offer-Generator-Runtime-Win64.zip",
+      "sha256": "",
+      "size": 69300000
+    },
+    "updater": {
+      "file": "LVKUpdater-win-x64.zip",
+      "url": "https://github.com/vitalya482-glitch/LVK-Updater/releases/download/v0.2.0/LVKUpdater-win-x64.zip",
+      "sha256": "",
+      "size": 900000
+    }
+  },
+  "notes": [
+    "Раздельное обновление app/runtime",
+    "Runtime не скачивается, если runtime_version не изменился"
+  ]
+}
