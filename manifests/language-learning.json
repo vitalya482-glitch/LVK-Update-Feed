@@ -10,7 +10,9 @@
   "releaseDate": "2026-09-02",
   "packageName": "kz.lvk.languagelearning.dev",
   "package": {
-    "url": "https://github.com/vitalya482-glitch/language-learning-app/releases/download/dev-latest/language-learning-dev.apk"
+    "url": "https://github.com/vitalya482-glitch/language-learning-app/releases/download/dev-latest/language-learning-dev.apk",
+    "sha256": "eb5e350884f81cb19f782b37711a85fa866d198366d77d477bd7ee460ef9f075",
+    "size": 8294294
   },
   "notes": [
     "Первая Android-сборка проекта.",
