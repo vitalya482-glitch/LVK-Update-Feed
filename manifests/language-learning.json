@@ -3,19 +3,20 @@
   "appId": "language-learning",
   "name": "Language Learning",
   "platform": "android",
-  "latestVersion": "0.1.0",
-  "versionCode": 1,
+  "latestVersion": "0.1.1",
+  "versionCode": 2,
   "channel": "dev",
   "mandatory": false,
   "releaseDate": "2026-09-02",
   "packageName": "kz.lvk.languagelearning.dev",
   "package": {
     "url": "https://github.com/vitalya482-glitch/language-learning-app/releases/download/dev-latest/language-learning-dev.apk",
-    "sha256": "eb5e350884f81cb19f782b37711a85fa866d198366d77d477bd7ee460ef9f075",
-    "size": 8294294
+    "sha256": "77dd0d4a779d32e12287dcb7796027f3b31492ade925aa1305d887b1b6879b30",
+    "size": 8294306
   },
   "notes": [
-    "Первая Android-сборка проекта.",
-    "Добавлены отображение текущей версии и обновление через LVK Update Feed."
+    "Тестовое обновление 0.1.1 для проверки полного цикла обновления приложения.",
+    "После установки dev-сборка использует автоматически публикуемый manifest из GitHub Release dev-latest.",
+    "Версия и versionCode теперь управляются централизованно через version.properties."
   ]
 }
