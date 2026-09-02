@@ -14,7 +14,7 @@
     {
       "appId": "language-learning",
       "name": "Language Learning",
-      "manifest": "https://raw.githubusercontent.com/vitalya482-glitch/LVK-Update-Feed/main/manifests/language-learning.json"
+      "manifest": "https://github.com/vitalya482-glitch/language-learning-app/releases/download/dev-latest/language-learning-manifest.json"
     }
   ]
 }
