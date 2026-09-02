@@ -10,6 +10,11 @@
       "appId": "offer-generator",
       "name": "SAM Offer Generator",
       "manifest": "https://raw.githubusercontent.com/vitalya482-glitch/LVK-Update-Feed/main/manifests/offer-generator.json"
+    },
+    {
+      "appId": "language-learning",
+      "name": "Language Learning",
+      "manifest": "https://raw.githubusercontent.com/vitalya482-glitch/LVK-Update-Feed/main/manifests/language-learning.json"
     }
   ]
 }
